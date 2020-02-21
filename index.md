@@ -1,6 +1,3 @@
-Tutorial: AAAI-20 Modularizing Natural Language Processing
-===
-
 ## Instructors:
 [Zhengzhong Liu](https://hunterhector.github.io/), [Zhiting Hu](http://www.cs.cmu.edu/~zhitingh) and [Eric Xing](http://www.cs.cmu.edu/~epxing/)
 
@@ -20,7 +17,7 @@ The recent success and growth in the fields of Natural Language Processing (NLP)
 
 ## Resources
 * [Tutorial Handouts](resources/AAAI20_tutorial_full.pdf)
-* [Forte](https://github.com/asyml/forte): The toolkit built modularizing NLP tasks and separating models and tasks
+* [Forte](https://github.com/asyml/forte): A toolkit for modularizing NLP tasks and abstracting models from domain logics.
 * [Texar](https://github.com/asyml/texar) and [Texar-Pytorch](https://github.com/asyml/texar-pytorch): The toolkit built for modularizing machine learning in NLP.
 * [ASYML project group](https://asyml.io/): Our project group: Machine Learning as Machine Assembly, we aim at designing modularized components for NLP and Machine Learing in general.
 

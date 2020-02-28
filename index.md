@@ -17,6 +17,7 @@ The recent success and growth in the fields of Natural Language Processing (NLP)
 
 ## Resources
 * [Tutorial Handouts](resources/AAAI20_tutorial_full.pdf)
+* [AAAI Tutorial Forum](https://aaai.org/Conferences/AAAI-20/aaai20tutorials/)
 * [Forte](https://github.com/asyml/forte): A toolkit for modularizing NLP tasks and abstracting models from domain logics.
 * [Texar](https://github.com/asyml/texar) and [Texar-Pytorch](https://github.com/asyml/texar-pytorch): The toolkit built for modularizing machine learning in NLP.
 * [ASYML project group](https://asyml.io/): Our project group: Machine Learning as Machine Assembly, we aim at designing modularized components for NLP and Machine Learing in general.
